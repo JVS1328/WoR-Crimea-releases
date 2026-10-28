@@ -1,1 +1,13 @@
-WRITE WHAT CHANGED IN THIS VERSION HERE, then run release.ps1.
+Crimean War 1.0.0 - first release
+
+War of Rights becomes the Crimean War (1853-56): Russia (CSA slot) against the Allies, British, French, Ottoman and Sardinian troops (USA slot).
+
+- Uniforms for both sides: Russian greatcoats, mundirs, forage caps and 1844 helmets, plastuns and hussars; British line in the 1854 coatee and Albert shako, Guards, Royal Artillery, Royal Horse Artillery and light dragoons in camp forage caps; French line, chasseurs a pied and Zouaves; the Ottoman fez; Sardinian line and Bersaglieri.
+- Period weapons: Pattern 1851 Minie, Victoria carbine, French carabine a tige and fusil Mle 1842, Russian Littikh shtutser and muskets, Deane-Adams and Colt Dragoon revolvers, Russian and French pistols, British and French swords and the yatagan sword bayonet. Rifle sights step through their period ranges in 100-yard steps.
+- Artillery: Russian guns and the 1/4-pood unicorn, and French guns, on the stock carriages.
+- Flags: Russian and Allied colours, British regimental colours with their 1854 honours, the Union Flag and the French tricolour.
+- The four maps reskinned as south-west Crimea in October 1854: steppe grass, downy oak, Tatar farms and gardens, buildings, interiors and signs.
+- Interface: RUS / ALL team names, Crimean rank icons, portraits and soldier icons, menu art after William Simpson's war prints, Onslaught loading screens and corpses in their own team's kits.
+- Built for the War of Rights patch of October 28, 2026 (Steam build 26270438).
+
+Client-side only: you can join normal servers, and other players see the vanilla game.
