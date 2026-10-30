@@ -1,11 +1,7 @@
-Crimean War 1.1.0 - every regiment in its own uniform
+Crimean War 1.1.1 - level-exit freeze fixed
 
-- Each regiment's clothing choices now hold only that regiment's own dress, so whatever you pick (or the game picks for you) is right for your unit.
-- Russia: every line and jaeger regiment wears its own shoulder straps, in its colour (red, white, light blue, green) with its own division number, on both the greatcoat and the coat. The plastuns, riflemen, sappers, naval crews, Caucasus troops, militia, hussars and gunners wear only their own dress.
-- Britain: every line regiment in its own facing colour, including the white, red, buff and sky-blue facings; officers' coatees in their facing with gold lace. The Albert shako carries the regiment's number on its plate (light infantry a bugle over the number, fusiliers a grenade plate), and the forage cap its brass number. Light infantry wear wings.
-- The Foot Guards wear the bearskin (officers with their regimental plume); the 42nd, 79th, 93rd and 72nd Highlanders the feather bonnet; the 42nd, 79th and 93rd the kilt in their own tartan, with sporran, diced hose and spats.
-- The forage cap (Kilmarnock) is reshaped after period photographs: lower and softer, the crown wider than the band.
-- France, Sardinia and the Ottomans: each unit in its own dress only; French officers in the dark tunic and kepi.
+- Fixed the game hanging for a minute or more when leaving a match or quitting after you had spawned in. The thatched barn roof was asking the game for a shader it doesn't ship with, and leaving the level waited for it. The roof looks the same.
+- The Russian greatcoats, coat trims and Caucasus coats keep their worn-cloth detail.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of October 28, 2026 (Steam build 26270438).
