@@ -1,14 +1,9 @@
-Crimean War 1.1.2 - weapon, artillery and Onslaught fixes
+Crimean War 1.1.3 - November 2 game patch
 
-- Littikh rifle: the sling shows its own leather strap again (it had the wrong texture, striped like dirt); the barrel is a clean browned service finish instead of a pitted museum piece; the rear sight's notch is opened up, so the front sight sits visibly in it at every range.
-- Carabine a tige and Victoria carbine: the same clean barrels, no speckle.
-- Russian M1828 musket: the rear sight's notch is opened up (it was a slit).
-- French Mle 1842 musket: the front sight now sits in the rear notch; it had been cut so low that the barrel bands filled the notch.
-- Deane-Adams revolver: the hammer now moves when you fire.
-- French cavalry pistol and Russian officer's pistol: held in the hand like the stock revolvers (the hand had gripped the bottom of the butt); sights re-aimed.
-- Cannons: the sight seat at the breech is a proper screwed plate (it showed as a striped, broken block); every gun has its front sight: a pyramid on the muzzle on the Russian pieces, the notch in the muzzle swell on the French canon-obusier. Laying re-measured.
-- Russian infantry: the cap pouch on the chest belt faces the right way, sits on the belt and is smaller, as in period paintings.
-- Onslaught loading screens redone to match the game's own: old damaged photographs, fog and smoke, the dead running at the camera; the Traktir bridge, the siege camp and the Mackenzie heights. Harpers Ferry (Balaklava) shows the game's own screen for now.
+- Updated for the War of Rights patch of November 2, 2026. Version 1.1.2 carries the old patch's script data, so update to 1.1.3.
+- The Kazan and Zhitomir Regiments' company player limits follow the patch.
+- Russian infantry: the cap pouch is gone from the chest belt; it floated off the chest on both the coat and the greatcoat.
+- Royal Horse Artillery busby: the scarlet bag lies on the fur, from the crown down the right side, instead of standing up over the top.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
-Built for the War of Rights patch of October 28, 2026 (Steam build 26270438).
+Built for the War of Rights patch of November 2, 2026 (Steam build 26380415).
