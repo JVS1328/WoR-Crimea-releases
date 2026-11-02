@@ -1,9 +1,9 @@
-Crimean War 1.1.3 - November 2 game patch
+Crimean War 1.1.4 - spyglass, bearskins and greatcoat colours
 
-- Updated for the War of Rights patch of November 2, 2026. Version 1.1.2 carries the old patch's script data, so update to 1.1.3.
-- The Kazan and Zhitomir Regiments' company player limits follow the patch.
-- Russian infantry: the cap pouch is gone from the chest belt; it floated off the chest on both the coat and the greatcoat.
-- Royal Horse Artillery busby: the scarlet bag lies on the fur, from the crown down the right side, instead of standing up over the top.
+- Spyglass on horseback: mounted officers now hold and raise the spyglass like a spyglass. Before, they held it up to their eyes like field glasses.
+- Foot Guards bearskin caps are closed underneath. Seen from below, they looked hollow.
+- French line infantry (7e de Ligne): the greatcoat is iron-grey-blue (gris de fer bleuté) again; it had come out plain grey.
+- Sardinian line infantry: greatcoat and trousers in their grey-blue; the chasseurs à pied's trousers in the same iron-grey-blue as the line's greatcoat.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
-Built for the War of Rights patch of November 2, 2026 (Steam build 26380415).
+Built for the War of Rights patch of November 2, 2026 (Steam build 26384450).
