@@ -1,7 +1,12 @@
-Crimean War 1.1.5 - Russian officers' sleeves
+Crimean War 1.1.6 - Belt clasps, hats and Skirmish texts
 
-- Russian officers: the gold braid knots at the cuffs are gone. They were the Confederate officers' sleeve knots showing through, on the officers' greatcoat (with or without gauntlets) and the artillery jacket.
-- Russian officers' greatcoat with gauntlets: the sleeve no longer shows through the gauntlet cuffs when the wrist turns (saluting, reloading, kneeling).
+- Officers' and sergeants' sword belts, both sides: the belt now closes with a clasp at the front instead of showing a gap. Allies: the British 1855 officer's clasp, a gilt centre with the crown and cypher in a silver ring. Russians: gilt, with the double-headed eagle.
+- Bersaglieri hat (the cocked-brim version): the plume no longer cuts through the brim; the brim is turned up beneath it.
+- Sardinian line infantry: one of the three overcoat choices showed the overcoat's cloth on the wrong coat shape. It is now the proper overcoat.
+- Artillery sergeants and corporals: the gunner's pouch and primer box no longer hang in the air at the waist. They always wear a waist belt now.
+- Skirmish mode: every area's description and date now tells a Crimean story (the Chernaya, Balaklava, the Mackenzie Heights and the siege camps) instead of the Maryland campaign. Map and area names are unchanged.
+- The benchmark dialog names the Chernaya battlefield.
+- Unused leftover files from an older mod removed.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 2, 2026 (Steam build 26384450).
