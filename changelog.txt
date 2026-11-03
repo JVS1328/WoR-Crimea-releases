@@ -1,9 +1,7 @@
-Crimean War 1.1.4 - spyglass, bearskins and greatcoat colours
+Crimean War 1.1.5 - Russian officers' sleeves
 
-- Spyglass on horseback: mounted officers now hold and raise the spyglass like a spyglass. Before, they held it up to their eyes like field glasses.
-- Foot Guards bearskin caps are closed underneath. Seen from below, they looked hollow.
-- French line infantry (7e de Ligne): the greatcoat is iron-grey-blue (gris de fer bleuté) again; it had come out plain grey.
-- Sardinian line infantry: greatcoat and trousers in their grey-blue; the chasseurs à pied's trousers in the same iron-grey-blue as the line's greatcoat.
+- Russian officers: the gold braid knots at the cuffs are gone. They were the Confederate officers' sleeve knots showing through, on the officers' greatcoat (with or without gauntlets) and the artillery jacket.
+- Russian officers' greatcoat with gauntlets: the sleeve no longer shows through the gauntlet cuffs when the wrist turns (saluting, reloading, kneeling).
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 2, 2026 (Steam build 26384450).
