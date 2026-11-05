@@ -1,16 +1,6 @@
-Crimean War 1.2.0 - The armies rebalanced
+Crimean War 1.2.1 - The Greek Legion officers' hands
 
-Each nation now holds the slots whose stock long arm is its own, so the Allies are no longer mostly British.
-- France: eight more line regiments on the Lorenz (French Mle 1842) slots: the 6e, 20e, 27e, 39e, 50e, 95e and 97e de Ligne and the 7e Leger, each with its number on the kepi band and its own drapeau. The 7e Leger has the jonquille collar and white-metal buttons.
-- France: the 6th Pennsylvania cavalry is now the 4e Chasseurs d'Afrique (sky-blue veste, kepi, garance trousers with leather facings). Four Rhode Island batteries are now French siege batteries.
-- Ottoman Empire: the Eupatoria Nizam Infantry, and the 6th, 7th and 8th Regiments of the Turkish Contingent, whose British officers wear the dark blue frock and a peaked cap with the crescent. Ottoman drummers carry their own drum.
-- Sardinia: a second provisional regiment, the 5th.
-- Britain: 13 line regiments, the 13th Light Dragoons and the siege train made way. The 79th Cameron Highlanders now wear their own dress at every rank.
-- Russia: the 1st Virginia cavalry is now the 1st Ural Cossack Regiment, with its banner. Three Caucasus regiments that never served in the Crimea gave way to the Olonets and Dibich-Zabalkansky Regiments and the Greek Legion of Nicholas I (fez, white fustanella).
-- Unit names, histories, flags and portraits follow the new roster.
-- Greatcoats: kneeling, the skirt hangs down from the knee instead of standing out flat, and the trousers no longer show through the back of the coat.
-- Canteens: only the British carry the BO Ordnance canteen; the French their cloth-covered tin flask, the Sardinians and Ottomans a plain wooden canteen.
-- Ottoman fez: the tassel hangs as one bundle from the crown down the back; its cords had fanned round the fez like a fringe.
+- Greek Legion of Nicholas I: the officers have their hands again. Their coats that came with gauntlets showed no hands at all; they now show bare hands like the men's.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
