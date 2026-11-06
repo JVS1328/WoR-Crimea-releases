@@ -1,6 +1,6 @@
-Crimean War 1.2.6 - The 19e Chasseurs' hats
+Crimean War 1.2.7 - Black Sea officers' gauntlets
 
-- 19e Chasseurs a pied: two of the hats named "Kepi - 19e Chasseurs" were felt slouch hats (the Bucktails' campaign hats). Every rank now gets kepis in their place.
+- 2nd and 8th Black Sea Foot Battalions: officers in the gloved coats had the white gauntlet cuffs showing through the cherkeska / chekmen sleeves. The sleeves are now tucked into the gauntlets, as on the 1st Ural Cossacks' chekmen and the officers' greatcoat.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
