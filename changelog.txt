@@ -1,6 +1,8 @@
-Crimean War 1.2.1 - The Greek Legion officers' hands
+Crimean War 1.2.2 - Lighter on memory
 
-- Greek Legion of Nicholas I: the officers have their hands again. Their coats that came with gauntlets showed no hands at all; they now show bare hands like the men's.
+- About 900 MB of uniform textures the mod carried two or more times (mostly the same cloth texture saved once per facing colour) are now stored once and shared. Nothing looks different: every uniform shows exactly the same pixels as before.
+- The game now keeps fewer textures in memory during a match. This should help PCs that got a black screen or low-detail textures after playing several rounds without restarting.
+- A small update: 8 paks, and the mod is about 400 MB smaller on disk.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
