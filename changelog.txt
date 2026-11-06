@@ -1,9 +1,6 @@
-Crimean War 1.2.5 - NCOs' chevrons fitted to their coats
+Crimean War 1.2.6 - The 19e Chasseurs' hats
 
-- Allied NCOs: the chevrons sat inside the greatcoat sleeve (Sardinians, Bersaglieri, the Turkish Contingent, the Nizam and the chasseurs a pied in the capote) and floated off the French line's tunique and the zouaves' jackets. They now lie on whichever coat the sergeant or corporal wears, standing, kneeling and aiming.
-- The French line's sergeants and corporals wear their chevrons on both the tunique and the capote, and the British gunners and light dragoons on their jackets.
-- British caped greatcoat: no chevrons through the cape any more; the cape covers the upper arm, as on the period greatcoat.
-- 1st Ural Cossacks: the uryadniks' silver galloon lies on the chekmen's collar and cuffs (the cuff galloon had sat inside the sleeve).
+- 19e Chasseurs a pied: two of the hats named "Kepi - 19e Chasseurs" were felt slouch hats (the Bucktails' campaign hats). Every rank now gets kepis in their place.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
