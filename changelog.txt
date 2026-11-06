@@ -1,7 +1,6 @@
-Crimean War 1.2.3 - The regiment portraits
+Crimean War 1.2.4 - Portraits with their coats
 
-- Regiment selection: every unit's portraits now show its own dress. Since 1.1.0 they had shown the game's stock pick for the slot, so many units wore the wrong uniform there: the 7e Leger in British coatees, the Greek Legion as Russian line infantry, the Highlanders without bonnet or kilt. Now the Highlanders, the Foot Guards, the French line with their kepi numbers, the Chasseurs d'Afrique, the Turkish Contingent, the Greek Legion and the rest appear as they do in game.
-- The portraits now come in two files per side (z_crw_UI_Textures_CSA_2.pak and z_crw_UI_Textures_USA_2.pak beside the first ones): in one file each they would pass the game's 2 GB limit for a pak.
+- Regiment selection: the Moscow, Tobolsk, Praga, Poltava, Olonets, Tomsk and Okhotsk Regiments' portraits showed some men without a coat (the belts, pack and trousers with nothing between them). They now wear their greatcoats, coats or shirts as in game, and their drummers, buglers and fifers have portraits of their own.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
