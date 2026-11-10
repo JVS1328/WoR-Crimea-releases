@@ -1,6 +1,7 @@
-Crimean War 1.2.7 - Black Sea officers' gauntlets
+Crimean War 1.2.8 - the chasseurs' kepis
 
-- 2nd and 8th Black Sea Foot Battalions: officers in the gloved coats had the white gauntlet cuffs showing through the cherkeska / chekmen sleeves. The sleeves are now tucked into the gauntlets, as on the 1st Ural Cossacks' chekmen and the officers' greatcoat.
+- 19e Chasseurs a pied: the kepis no longer wear the Bucktails' deer tails (a chasseur's field kepi had no plume).
+- Chasseurs a pied (1er, 3e, 19e): the low kepis were named "Shako"; they are now "Low Kepi".
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
