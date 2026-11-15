@@ -1,6 +1,6 @@
-Crimean War 1.2.9 - greatcoat collars
+Crimean War 1.3.0 - firmer ground up close
 
-- French line and chasseurs' capotes, Sardinian and Bersaglieri overcoats: the coats had lost their standing collar, so the undershirt's collar (tall and white on the High Collar shirts) stood up round the neck. The collar is back, in each coat's own cloth.
+- The steppe, meadow, woodland and trampled grass, the leaf litter, the limestone grit and the wheat stubble looked spongy up close: their bumps and pits came from the old Maryland ground, not from the Crimean ground drawn on them. Each now has relief that follows its own picture (tufts raised, gaps between them low, leaves lying on the soil), no deeper or rougher than the game's own.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
