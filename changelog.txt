@@ -1,7 +1,6 @@
-Crimean War 1.2.8 - the chasseurs' kepis
+Crimean War 1.2.9 - greatcoat collars
 
-- 19e Chasseurs a pied: the kepis no longer wear the Bucktails' deer tails (a chasseur's field kepi had no plume).
-- Chasseurs a pied (1er, 3e, 19e): the low kepis were named "Shako"; they are now "Low Kepi".
+- French line and chasseurs' capotes, Sardinian and Bersaglieri overcoats: the coats had lost their standing collar, so the undershirt's collar (tall and white on the High Collar shirts) stood up round the neck. The collar is back, in each coat's own cloth.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
 Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
