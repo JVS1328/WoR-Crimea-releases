@@ -1,6 +1,6 @@
-Crimean War 1.3.0 - firmer ground up close
+Crimean War 1.3.1 - the November 21 game patch
 
-- The steppe, meadow, woodland and trampled grass, the leaf litter, the limestone grit and the wheat stubble looked spongy up close: their bumps and pits came from the old Maryland ground, not from the Crimean ground drawn on them. Each now has relief that follows its own picture (tufts raised, gaps between them low, leaves lying on the soil), no deeper or rougher than the game's own.
+- Checked against the War of Rights patch of November 21, 2026: it changed only the game program and its engine files, none of which the mod replaces. Every mod file is unchanged from 1.3.0, so this version re-sends the full set for anyone on an older Mod Manager.
 - Still client-side only: you can join normal servers, and other players see the vanilla game.
 
-Built for the War of Rights patch of November 4, 2026 (Steam build 26426403).
+Built for the War of Rights patch of November 21, 2026 (Steam build 26832388).
